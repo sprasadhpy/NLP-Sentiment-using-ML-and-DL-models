@@ -1,5 +1,5 @@
 # NLP_Sentiment
-Sentiment analysis for finance  using BLSTM and Naive Bayes 
+Sentiment analysis for finance data  using BLSTM and Naive Bayes 
 
 Data Source used for BLSTM :https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10
 
